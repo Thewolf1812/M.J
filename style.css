@@ -2,7 +2,7 @@ table,th,td {
     border: 1px solid palevioletred; 
     border-collapse: collapse;  
     text-align: center;
-    padding: 9px;
+    padding: 10px;
 }
 
 body {
@@ -30,21 +30,31 @@ header h1,h2 {
      
 }
 
+.video1 {
+
+    padding: 18px;
+}
+
 .corazon {
 
     width: 300px;
+    padding: 18px;
+    
 }
 
 .video1 {
     width: 400px;
+    padding: 18px;
 }
 
 .beso {
     width: 300px;
+    padding: 18px;
 }
 
 .ojitos {
     width: 300px;
+    padding: 18px;
 }
 
 .tg {
@@ -54,4 +64,6 @@ header h1,h2 {
 
 .asc {
     width: 371px;
+    padding: 18px;
 }
+
